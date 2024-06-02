@@ -1,0 +1,11 @@
+﻿{
+  "namespace": "ElectricSteve",
+  "name": "Surface_Die_Fix",
+  "description": "Fixes the bugged state you enter if you somehow die on the surface.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Hamunii-AutoHookGenPatcher-1.0.4",
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/electricsteve/surfacediefix"
+}
